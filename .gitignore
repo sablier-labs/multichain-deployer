@@ -1,6 +1,8 @@
-# directories
-target/
+# Folders
+/target*
+crates/collect-fee/target
+crates/collect-fee/out/
 
-# files
-*.env
+# Files
 .DS_Store
+*.env
